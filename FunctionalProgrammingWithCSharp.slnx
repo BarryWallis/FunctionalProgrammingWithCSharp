@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Chapter1/">
+    <Project Path="BookPublishingSystem/BookPublishingSystem.csproj" />
+  </Folder>
+</Solution>
