@@ -2,4 +2,13 @@
   <Folder Name="/Chapter1/">
     <Project Path="BookPublishingSystem/BookPublishingSystem.csproj" />
   </Folder>
+  <Folder Name="/Chapter2/">
+    <Project Path="Exercise3/Exercise3.csproj" Id="566b5e59-92bd-4626-b204-707d54d69aaf" />
+  </Folder>
+  <Folder Name="/Chapter3/">
+    <Project Path="Exercise1/Exercise1.csproj" Id="1837a6d3-5ebd-41c4-a5d5-514d1d1ff5d2" />
+  </Folder>
+  <Project Path="Exercise1.Tests/Exercise1.Tests.csproj">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
 </Solution>
