@@ -11,4 +11,6 @@
   <Project Path="Exercise1.Tests/Exercise1.Tests.csproj">
     <Build Solution="Debug|*" Project="false" />
   </Project>
+  <Project Path="Exercise2.Tests/Exercise2.Tests.csproj" />
+  <Project Path="Exercise2/Exercise2.csproj" />
 </Solution>

@@ -21,10 +21,10 @@ public class Exercise1Tests
         double difficultyModifier,
         double expectedDamage)
     {
-        var tower = CreateTower(baseDamage);
-        var enemy = CreateEnemy(damageMultiplier);
+        Tower tower = CreateTower(baseDamage);
+        Enemy enemy = CreateEnemy(damageMultiplier);
 
-        var actualDamage = Exercise1.CalculateDamage(tower, enemy, difficultyModifier);
+        double actualDamage = Exercise1.CalculateDamage(tower, enemy, difficultyModifier);
 
         Assert.Equal(expectedDamage, actualDamage);
     }
