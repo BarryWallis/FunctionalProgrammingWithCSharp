@@ -1,16 +1,20 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Exercise4._1.UnitTests</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <IsPackable>false</IsPackable>
+    <TargetFramework>net10.0</TargetFramework>
     <IsTestProject>true</IsTestProject>
+    <IsPackable>false</IsPackable>
+    <LangVersion>latest</LangVersion>
+    <DisableTransitiveProjectReferences>false</DisableTransitiveProjectReferences>
     <UseMicrosoftTestingPlatformRunner>false</UseMicrosoftTestingPlatformRunner>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.6.0" />
+    <PackageReference Include="Moq" Version="4.20.72" />
     <PackageReference Include="xunit.runner.visualstudio" Version="3.1.5">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -19,7 +23,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Exercise1\Exercise3.1.csproj" />
+    <ProjectReference Include="..\Exercise4.1\Exercise4.1.csproj" />
+    <ProjectReference Include="..\Exercise4.2\Exercise4.2.csproj" />
+    <ProjectReference Include="..\Exercise4.3\Exercise4.3.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
   </ItemGroup>
 
 </Project>

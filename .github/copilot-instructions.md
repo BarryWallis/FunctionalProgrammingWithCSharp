@@ -20,6 +20,7 @@ applyTo: '**/*.cs'
 - When changes are made to `C:\Users\barry\OneDrive\Source\Repos\FunctionalProgrammingWithCSharp\.github\copilot-instructions.md`, make the same changes to `C:\Users\barry\OneDrive\Source\Repos\copilot-instructions.md` as well.
 - Always use explicit types instead of 'var' in code changes. <!-- Enhanced with New Memory -->
 - Always use discard '_' when a return value is never used.
+- Use the latest stable unit testing package whenever adding or updating unit test dependencies.
 
 ### Naming Conventions
 - Follow PascalCase for component names, method names, and public members.
