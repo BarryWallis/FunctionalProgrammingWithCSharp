@@ -1,4 +1,8 @@
 ﻿namespace Exercise4._3;
+
+/// <summary>
+/// Provides functionality for describing different enemy types.
+/// </summary>
 public class Exercise3
 {
     public static string DescribeEnemy(Enemy? enemy) => enemy switch

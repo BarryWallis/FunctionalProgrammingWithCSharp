@@ -29,5 +29,5 @@ public class TowerTests
 
         _ = Assert.Throws<NotImplementedException>(() => sut.ApplyPowerUp(null!));
     }
-
 }
+

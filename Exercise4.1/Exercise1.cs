@@ -4,6 +4,9 @@ using LanguageExt;
 
 namespace Exercise4._1;
 
+/// <summary>
+/// Provides methods to retrieve towers by position.
+/// </summary>
 public class Exercise1
 {
     private readonly GameMap _gameMap = new();

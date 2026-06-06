@@ -1,0 +1,56 @@
+<Solution>
+
+  <Folder Name="/Chapter1/">
+
+    <Project Path="BookPublishingSystem/BookPublishingSystem.csproj" />
+
+  </Folder>
+
+  <Folder Name="/Chapter2/">
+
+    <Project Path="Exercise3/Exercise2.3.csproj" Id="566b5e59-92bd-4626-b204-707d54d69aaf" />
+
+  </Folder>
+
+  <Folder Name="/Chapter3/">
+
+    <Project Path="Exercise1.Tests/Exercise1.Tests.csproj">
+
+      <Build Solution="Debug|*" Project="false" />
+
+    </Project>
+
+    <Project Path="Exercise1/Exercise3.1.csproj" Id="1837a6d3-5ebd-41c4-a5d5-514d1d1ff5d2" />
+
+    <Project Path="Exercise2.Tests/Exercise2.Tests.csproj" />
+
+    <Project Path="Exercise2/Exercise3.2.csproj" />
+
+  </Folder>
+
+  <Folder Name="/Chapter4/">
+
+    <Project Path="Exercise4.1.UnitTests/Exercise4.1.UnitTests.csproj" Id="27a8aad2-9b6e-489d-a565-78a57f3820bc" />
+
+    <Project Path="Exercise4.1/Exercise4.1.csproj" Id="52ffc7dc-7250-42f9-a063-e36d43d9aa6f" />
+
+    <Project Path="Exercise4.2/Exercise4.2.csproj" Id="4a3065f2-ba95-41d2-ba10-638ff5daf679" />
+
+    <Project Path="Exercise4.3/Exercise4.3.csproj" Id="da0ae31e-4924-4e6e-9920-fbd50cd8845d" />
+
+  </Folder>
+
+  <Folder Name="/Chapter5/">
+
+    <Project Path="Exercise5.1.UnitTests/Exercise5.1.UnitTests.csproj" Id="250e5bd8-39c5-4af5-a9e7-e8806713efe9">
+
+      <Build Solution="Debug|*" Project="false" />
+
+    </Project>
+
+    <Project Path="Exercise5.1/Exercise5.1.csproj" Id="f749ba98-bca9-4dd3-aec5-4f6bbbde8e9c" />
+
+  </Folder>
+
+</Solution>
+

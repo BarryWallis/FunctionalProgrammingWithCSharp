@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Application project settings for Chapter 5 exercises. -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Exercise5._1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- LanguageExt provides the Result<T> type used by Exercise1. -->
+  <ItemGroup>
+    <PackageReference Include="LanguageExt.Core" Version="4.4.9" />
+  </ItemGroup>
+
+  <!-- Grant unit test projects access to internal members used by the tests. -->
+  <ItemGroup>
+    <InternalsVisibleTo Include="Exercise4.1.UnitTests" />
+    <InternalsVisibleTo Include="Exercise5.1.UnitTests" />
+  </ItemGroup>
+
+</Project>

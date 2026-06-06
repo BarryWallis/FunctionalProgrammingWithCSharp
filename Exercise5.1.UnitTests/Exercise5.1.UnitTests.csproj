@@ -1,7 +1,7 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>Exercise4._1.UnitTests</RootNamespace>
+    <RootNamespace>Exercise5._1.UnitTests</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <TargetFramework>net10.0</TargetFramework>
@@ -23,9 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Exercise4.1\Exercise4.1.csproj" />
-    <ProjectReference Include="..\Exercise4.2\Exercise4.2.csproj" />
-    <ProjectReference Include="..\Exercise4.3\Exercise4.3.csproj" />
     <ProjectReference Include="..\Exercise5.1\Exercise5.1.csproj" />
   </ItemGroup>
 

@@ -2,6 +2,9 @@
 
 namespace Exercise4._1;
 
+/// <summary>
+/// Represents the map where game objects like towers are located.
+/// </summary>
 internal class GameMap
 {
 #pragma warning disable CA1822 // Mark members as static

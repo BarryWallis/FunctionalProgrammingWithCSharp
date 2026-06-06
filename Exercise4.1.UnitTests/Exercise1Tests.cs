@@ -38,5 +38,4 @@ public class Exercise1Tests
         Assert.True(result.IsSome);
         Assert.NotNull(tower);
     }
-
 }
