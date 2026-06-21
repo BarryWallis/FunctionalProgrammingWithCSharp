@@ -1,31 +1,36 @@
 <Solution>
   <Folder Name="/Chapter1/">
-    <Project Path="BookPublishingSystem/BookPublishingSystem.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/BookPublishingSystem/BookPublishingSystem.csproj" />
   </Folder>
   <Folder Name="/Chapter2/">
-    <Project Path="Exercise3/Exercise2.3.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise3/Exercise2.3.csproj" />
   </Folder>
   <Folder Name="/Chapter3/">
-    <Project Path="Exercise1.Tests/Exercise1.Tests.csproj" />
-    <Project Path="Exercise1/Exercise3.1.csproj" />
-    <Project Path="Exercise2.Tests/Exercise2.Tests.csproj" />
-    <Project Path="Exercise2/Exercise3.2.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise1.Tests/Exercise1.Tests.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise1/Exercise3.1.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise2.Tests/Exercise2.Tests.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise2/Exercise3.2.csproj" />
   </Folder>
   <Folder Name="/Chapter4/">
-    <Project Path="Exercise4.1.UnitTests/Exercise4.1.UnitTests.csproj" />
-    <Project Path="Exercise4.1/Exercise4.1.csproj" />
-    <Project Path="Exercise4.2/Exercise4.2.csproj" />
-    <Project Path="Exercise4.3/Exercise4.3.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise4.1.UnitTests/Exercise4.1.UnitTests.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise4.1/Exercise4.1.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise4.2/Exercise4.2.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise4.3/Exercise4.3.csproj" />
   </Folder>
   <Folder Name="/Chapter5/">
-    <Project Path="Exercise5.1.UnitTests/Exercise5.1.UnitTests.csproj" />
-    <Project Path="Exercise5.1/Exercise5.1.csproj" />
-    <Project Path="Exercise5.2.UnitTests/Exercise5.2.UnitTests.csproj" />
-    <Project Path="Exercise5.2/Exercise5.2.csproj" />
-    <Project Path="Exercise5.3.UnitTests/Exercise5.3.UnitTests.csproj">
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise5.1.UnitTests/Exercise5.1.UnitTests.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise5.1/Exercise5.1.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise5.2.UnitTests/Exercise5.2.UnitTests.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise5.2/Exercise5.2.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise5.3.UnitTests/Exercise5.3.UnitTests.csproj">
       <Build Solution="Debug|*" Project="false" />
     </Project>
-    <Project Path="Exercise5.3/Exercise5.3.csproj" />
+    <Project Path="../../../../../../OneDrive/Source/Repos/FunctionalProgrammingWithCSharp/Exercise5.3/Exercise5.3.csproj" />
+  </Folder>
+  <Folder Name="/Chapter6/">
+    <Project Path="Exercise6.1/Exercise6.1.csproj" />
+    <Project Path="Exercise6.2/Exercise6.2.csproj" />
+    <Project Path="Exercise6.3/Exercise6.3.csproj" />
   </Folder>
 </Solution>
 
