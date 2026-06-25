@@ -32,5 +32,9 @@
     <Project Path="Exercise6.2/Exercise6.2.csproj" />
     <Project Path="Exercise6.3/Exercise6.3.csproj" />
   </Folder>
+  <Folder Name="/Chapter7/">
+    <Project Path="Exercise7.1/Exercise7.1.csproj" Id="4deeb839-2b4a-47ba-83db-08db2948646b" />
+    <Project Path="Exercise7.2/Exercise7.2.csproj" Id="a9570e4e-57c6-4ed6-98e3-46ad49634916" />
+  </Folder>
 </Solution>
 
